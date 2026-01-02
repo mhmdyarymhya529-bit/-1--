@@ -51,6 +51,30 @@
       <source src="song3.mp3" type="audio/mpeg">
     </audio>
   </div>
-</body>
-</html>
-ذ
+
+
+  <div class="song">
+    <h2>آهنگ چهارم</h2>
+    <audio controls>
+      <source src="song3.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+ 
+<div class="song">
+    <h2>آهنگ پنجم</h2>
+    <audio controls>
+      <source src="song3.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+
+<div class="song">
+    <h2>آهنگ ششم</h2>
+    <audio controls>
+      <source src="song3.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+
+</body> </html>
+این آهنگ ها مورد علاقه برنامه نویس این سایت است. 
+
+
