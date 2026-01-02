@@ -76,5 +76,9 @@
 
 </body> </html>
 این آهنگ ها مورد علاقه برنامه نویس این سایت است. 
+<audio controls>
+  <source src="song1.mp3" type="audio/mpeg">
+  مرورگر شما از پخش صوت پشتیبانی نمی‌کند.
+</audio>
 
 
